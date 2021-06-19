@@ -1,7 +1,7 @@
 # html-css-1
 Project to learn basics of html and css.
 
-**Student:**
+**Student:**[YulijCesar](https://www.linkedin.com/in/юлия-кондерева-061425215)
 
 **Mentor:** [Ivan Konderev](https://www.linkedin.com/in/ivan-kondzerau/)
 
